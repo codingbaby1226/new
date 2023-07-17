@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>에너지 발전과 효율</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>에너지 발전 방법</h1>
+  <p>태양광 발전과 수소 연료 전지에 대한 설명을 여기에 작성하세요.</p>
+  
+  <h1>에너지 효율</h1>
+  <p>스마트 그리드, 가상 발전소, 제로 에너지 빌딩의 개념과 에너지 효율을 높이는 방법에 대한 설명을 여기에 작성하세요.</p>
+</body>
+</html>
